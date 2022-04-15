@@ -1,2 +1,9 @@
 *.bak
 *~
+myvenv
+
+# Virtual environment is not needed to be managed
+myvenv
+.venv
+test
+
